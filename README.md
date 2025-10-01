@@ -1,12 +1,8 @@
 # 🎮 Coltecube Escape
 
-   __________  __  ____________________  ______  ______
-  / ____/ __ \/ / /_  __/ ____/ ____/ / / / __ )/ ____/
- / /   / / / / /   / / / __/ / /   / / / / __  / __/   
-/ /___/ /_/ / /___/ / / /___/ /___/ /_/ / /_/ / /___   
-\____/\____/_____/_/ /_____/\____/\____/_____/_____/   
-                                                                                    
-                                                                                       
+<img width="844" height="142" alt="ascii-art-text (1)" src="https://github.com/user-attachments/assets/7e884689-c136-41c2-adfc-11da4ceccf5e" />
+
+                                                                          
                                                                                        
 
 > 🕹️ Um jogo de mistério e enigmas no universo do Coltec.  
