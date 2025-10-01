@@ -1,81 +1,169 @@
-# 🎮 Coltecube Escape – Roteiro
+# 🎮 Coltecube Escape
 
-Este é o roteiro do **segundo andar** do jogo *Coltecube Escape*.  
-Cada sala contém interações, personagens e enigmas que devem ser resolvidos para avançar.
+/ | | | | ___ _ | | ___ ___
+| | / _ | | |/ _ \ | | | |/ _ / |
+| || () | | | / |_| | | /_
+__/|||_|_,||_||/
+
+
+
+> 🕹️ Um jogo de mistério e enigmas no universo do Coltec.  
+> Resolva puzzles, explore salas e interaja com personagens para escapar!  
 
 ---
 
-## 🔹 Estrutura do Segundo Andar
-
-### 1. Escada (primeiro)
-- **Escada** → só desce  
-- **Elevador** → só sobe, inicialmente com a porta impedindo a passagem  
+## 🚀 Status do Projeto
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Version](https://img.shields.io/badge/version-0.1-blue)
+![License](https://img.shields.io/badge/license-MIT-green)
 
 ---
 
-### 2. Vermelho e Verde (segundo)
+## 🏠 Tela Inicial
+
+### Entrada do jogo
+- Tela com o **desenho da entrada do Coltec**
+- **Botão de Play**
+
+### Configurações
+- Opção de **Som**
+- **Botão de voltar**
+- **Botão de ir para a página inicial do jogo**
+
+---
+
+## 🏢 Primeiro Andar (Hall)
+
+### Escada (primeiro)
+- **Escada** (sobe)  
+- **Armário com antiguidades**  
+  - Dentro estará a **ampulheta** → ao mudar o tempo (passado/futuro) irá tocar o **alarme do Tonhão**
+
+### Teto
+- Vários desenhos decorativos (só aparecem no primeiro andar)
+
+### Quadra trancada (segundo)
+- Porta fechada  
+- Cadeado  
+
+### Quadra destrancada (segundo)
+- **Ônibus do Coltec**  
+- Quadra com o **símbolo do comunismo**  
+- **Muro com pichação** → “Quem é você? Qual é seu nome? - A”  
+- **David correndo** → cai, torce a perna, jorra sangue → jogador pode pegar a perna dele  
+
+### Ônibus (ao clicar)
+- **Volante com pedais**  
+- **Motor do ônibus** → será consertado usando o **torno da perna do David**  
+- **Vista frontal do ônibus**  
+- **Espelho do motorista** → reflete o **Tonhão**  
+- Lugar para **pregar o mapa**
+
+### Cantina (terceiro)
+- **Fogão, pia e armário** (lado a lado)  
+- Armário contém itens de cozinha (necessário pegar **uma panela**)  
+- Enigma: acender o fogão → onde o **dedo será descongelado**
+
+### Banho de sol (quarto)
+- **Sol**  
+- **Banheira** → corpo do **Zé Du** será descongelado  
+  - Ao clicar na cabeça → a boca abre com a língua de fora, revelando uma **chave** → abre a quadra
+
+### Corredor (quinto)
+- **Sala do Madeira** → sempre com o Madeira dentro (independente do tempo), inacessível  
+- **Sala do Oswaldo** → entrada por digital  
+- **Sala do Metal** → fresta iluminada (parece que alguém está soldando lá dentro)
+
+### Sala do Metal (ao clicar)
+- **Plataforma** → colocar a perna do David  
+- **Serra elétrica** fixa no chão → corta a perna  
+- **Máquina de solda** → queima a perna até restar só o torno  
+
+### Sala do Oswaldo (com digital)
+- Contém uma **chave**
+
+---
+
+## 🏢 Segundo Andar
+
+### Escada (primeiro)
+- **Escada** (só desce)  
+- **Elevador** (só sobe, bloqueado inicialmente pela porta)
+
+### Vermelho e Verde (segundo)
 - **Porta do Laboratório Vermelho**  
 - **Porta do Laboratório Verde**  
-- **Escaninhos** → no escaninho **21** estará o **pé de cabra**  
+- **Escaninhos** → no **21** estará o **pé de cabra**
 
----
+### Laboratório Vermelho
+- **Mesa com circuito** → ao montar, gera uma mini explosão → queda de energia do Coltec  
+- **Impressora 3D** → cria o **adesivo encolhedor**  
+- **Honda** → preocupado e apressado, fala “?”
 
-### 3. Laboratório Vermelho
-- **Mesa com circuito** → jogador monta o circuito; ao fechar ocorre uma mini explosão → queda de energia do Coltec  
-- **Impressora 3D** → pode criar o **adesivo encolhedor**  
-- **Honda** → com aspecto preocupado e apressado, fala “?”  
-
----
-
-### 4. Laboratório Verde
+### Laboratório Verde
 - **Vários computadores** → apenas um interativo  
-  - Não funciona inicialmente → jogador deve ir até a **Sala de NTI** para o **Fabrício** consertar  
-  - Quando funcionando → jogador faz uma **consulta SQL** para descobrir a melhor turma do Coltec  
+  - Inicialmente quebrado → precisa do **Fabrício (NTI)** para consertar  
+  - Enigma: **consulta SQL** → descobrir a melhor turma do Coltec  
     - Resposta: **303**  
     - Retorno: senha do **escaninho 21**  
-- **Fantini** → com a perna fechada; só abre após resolver o enigma do PC  
+- **Fantini** → só abre a perna após resolver o enigma do PC  
 - **Projetor**  
-- **Controle do ar** → usado para desligar o ar do Laboratório Amarelo  
+- **Controle do ar** → usado no Laboratório Amarelo
 
----
+### Mural (terceiro)
+- **Mural de informações**
 
-### 5. Mural (terceiro)
-- **Mural de informações**  
-
----
-
-### 6. Amarelo e Sala NTI (quarto)
+### Amarelo e Sala NTI (quarto)
 - **Porta do Laboratório Amarelo**  
 - **Bebedouro**  
 - **Lixo**  
-- **Parede** → no passado terá o nome da **Ju Arnaut**; no futuro, o do **Alemão**  
-- **Sala de NTI**  
+- **Parede** → no passado: “Ju Arnaut”; no futuro: “Alemão”  
+- **Sala de NTI**
 
----
-
-### 7. Laboratório Amarelo
+### Laboratório Amarelo
 - **TV**  
 - **Mesa de computadores**  
 - **Lucas Alves** → “Boa tarde! Como foi o final de semana de vocês? Tá frio aqui, hein.”  
-- **Plataforma sem o controle do ar**  
-- **Armário congelado com o corpo do Zé Du dentro**  
-  - Ao abrir → cai um grande bloco de gelo  
-  - Ao clicar → cai um mini bloco de gelo  
+- **Plataforma sem controle do ar**  
+- **Armário congelado com Zé Du** → ao abrir, cai um bloco de gelo → ao clicar, sobra um mini bloco
+
+### Sala de NTI
+- **Fabrício** aparece  
+- Mini diálogo sobre a queda de energia
 
 ---
 
-### 8. Sala de NTI
-- Apenas o **Fabrício** aparece  
-- Mini diálogo sobre a queda de energia  
+## 🏢 Terceiro Andar
+
+### Elevador (primeiro)
+- **Elevador** (desce)
+
+### Pessoas (segundo)
+- **Cadeiras**  
+- **Quadro branco** com calendário marcando as **trimestrais (?)**
+
+### Sala 313 (terceiro)
+- **Abre ao clicar**  
+- **Mesas e cadeiras**  
+- **Soneca** dormindo  
+- **Filme sobre comunismo** passando  
+- **Mesa centralizada com papéis** → contém mini game de **ligar os pontos**  
+  - Pontos são escolas famosas (CEFET, Coltec, IF, CMBH)  
+  - Primeira ligação obrigatória: **Coltec**  
+  - Cor da ligação: **vermelha**  
+- **Brandem** chega perguntando: “Já fez chamada?”
 
 ---
 
-## 📌 Resumo do Andar
-1. Escada  
-2. Vermelho e Verde  
-3. Laboratório Vermelho  
-4. Laboratório Verde  
-5. Mural  
-6. Amarelo e Sala NTI  
-7. Laboratório Amarelo  
-8. Sala de NTI  
+## 📌 Estrutura Geral
+- Tela Inicial  
+- Primeiro Andar (Hall)  
+- Segundo Andar  
+- Terceiro Andar  
+
+---
+
+## 📜 Licença
+Este projeto é distribuído sob a licença **MIT**.  
+Sinta-se livre para usar, modificar e contribuir.
+
